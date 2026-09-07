@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AllOn4DentalImplantsMiami.com/sitemap.xml
