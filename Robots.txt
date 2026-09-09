@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.allon4dentalimplantsmiami.com/sitemap.xml
+
+# Canonical homepage: https://www.allon4dentalimplantsmiami.com/
+# AdSense: After approval, ensure ads.txt exists at root
